@@ -7,7 +7,7 @@ import Image from "next/image"
 
 export default function SagemsDownloadPage() {
   const handleDownload = () => {
-    const downloadUrl = "https://filebin.net/folloqx9yuyy95h4/saegems.zip"
+    const downloadUrl = "https://filebin.net/srnp7vypkbo5sq1p/saegems.zip"
     window.open(downloadUrl, "_blank")
   }
 
